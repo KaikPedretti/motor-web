@@ -56,7 +56,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 2. Abra seu navegador e acesse o projeto através do endereço:
 
-   ``` [localhost](http://localhost:3005/) ```
+   ``` http://localhost:3000/ ```
 
 ### 📄 Licença
 
